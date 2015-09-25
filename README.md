@@ -12,4 +12,6 @@ Linux下数据资料
 1.    python 爬虫
 2.    新浪微博接口
 3.    微信公众号接口
-4.   python语法学习
+4.   python语法学习  
+
+**编辑本文档时，编辑语法参见[MarkDown教程](https://github.com/LearnShare/Learning-Markdown)**
